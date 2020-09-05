@@ -1,5 +1,4 @@
 class ApplicationController < ActionController::Base
-    def home
-        render html:"Hello world,watsapp?"
-    end
+   def about
+   end
 end
